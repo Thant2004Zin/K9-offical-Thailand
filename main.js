@@ -1,5 +1,6 @@
 import './style.scss'
 
+
 import WOW from 'wow.js/dist/wow'
 
 var wow = new WOW(
